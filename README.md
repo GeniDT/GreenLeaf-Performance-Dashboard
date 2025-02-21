@@ -62,10 +62,10 @@ Continue monitoring profitability per account to ensure that high-sales accounts
 - <a href="https://github.com/GeniDT/GreenLeaf-Performance-Dashboard/blob/main/Performaance%20Dashboard.pbix">View Dashboard</a>
 
 ## Recommendations for Stakeholders
-•	Optimize Product Strategy: Focus on Outdoor and Landscape products to align with shifting consumer preferences.
-•	Market-Specific Adjustments: Address underperforming regions with targeted marketing campaigns and pricing strategies.
-•	Inventory Management: Use insights to align stock levels with demand trends, minimizing overstock or shortages.
-•	Enhance Data Monitoring: Regularly update and review performance metrics to stay agile in decision-making.
+-	Optimize Product Strategy: Focus on Outdoor and Landscape products to align with shifting consumer preferences.
+-	Market-Specific Adjustments: Address underperforming regions with targeted marketing campaigns and pricing strategies.
+-	Inventory Management: Use insights to align stock levels with demand trends, minimizing overstock or shortages.
+-	Enhance Data Monitoring: Regularly update and review performance metrics to stay agile in decision-making.
 
 ## How to Use the Dashboard
 1.	Explore Key Metrics: Navigate through sales, quantity, and gross profit insights.
@@ -74,4 +74,3 @@ Continue monitoring profitability per account to ensure that high-sales accounts
    
 ## Technologies Used
 •	Power BI for visualization and interactive reporting.
-•	Excel
