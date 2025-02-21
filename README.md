@@ -7,7 +7,7 @@ The GreenLeaf Performance Dashboard is a data-driven analytics tool that offers 
 
 
 ## Business Questions
-- How has GreenLeaf’s Year-to-Date (YTD) sales performance evolved compared to the Prior Year-to-Date (PYTD)
+- How has GreenLeaf’s Year-to-Date (YTD) sales performance evolved compared to the Prior Year-to-Date (PYTD)?
 - Which product categories are the best and worst performers?
 Contribution % of Each Product Category
 - What are the key market trends and variations across different countries?
