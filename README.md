@@ -7,38 +7,71 @@ The GreenLeaf Performance Dashboard is a data-driven analytics tool that offers 
 
 
 ## Business Questions
-- How has GreenLeaf’s Year-to-Date (YTD) sales performance evolved compared to the Prior Year-to-Date (PYTD)?
-- Which product categories are the best and worst performers?
-Contribution % of Each Product Category
-- What are the key market trends and variations across different countries?
-Top & Bottom 10 Countries by Sales Change
-- How do profitability and sales quantity correlate across different segments?
+- How has GreenLeaf’s Year-to-Date (YTD) sales revenue changed compared to the Prior Year-to-Date (PYTD)?
+- Which countries contributed most to sales growth or decline?
+- How has GreenLeaf’s total sales quantity changed over time?
+- Which product categories contributed most to the total quantity sold?
+- What is the relationship between sales quantity and profitability?
 - How can GreenLeaf optimize sales and inventory management using data-driven insights?
-  
-- Dashboard Interaction <a href="https://github.com/GeniDT/GreenLeaf-Performance-Dashboard/blob/main/Performaance%20Dashboard.pbix">View Dashboard</a>
+
+## Dashboard Preview
+ <a href="https://github.com/GeniDT/GreenLeaf-Performance-Dashboard/blob/main/Image.png">View Dashboard</a>Preview of Dashboard</a> 
+
 
 ## Key Insights & Findings
-•	Year-over-Year Performance: Sales and quantity trends revealed key periods of growth and decline, aiding in demand forecasting.
-•	Product Type Contribution:
-o	Outdoor plants led sales with a 37.74% share in 2024.
-o	Indoor plants saw a decline in units sold, signaling a shift in customer demand.
-o	Landscape products gained traction but did not fully offset the drop in Indoor sales.
-•	Country Performance:
-o	Markets like France, China, and Sweden underperformed, requiring strategic interventions.
-o	Strong sales were observed in other key regions, highlighting expansion opportunities.
-•	Profitability & Business Impact:
-o	Accounts with higher Gross Profit Percentage (GP%) aligned with optimal sales performance.
-o	Opportunities exist to refine product strategies for better profitability distribution.
-## Dashboard Preview
+-How did sales perform year over year?
+
+2024 YTD sales revenue is lower than 2023’s PYTD sales, indicating a decline in total revenue.
+The YTD vs. PYTD Sales Growth metric shows a negative trend, suggesting that sales performance has slowed in early 2024.
+Seasonal trends were observed, with higher sales in certain months of 2023 compared to the same period in 2024.
+
+- Which product categories performed best and worst?
+
+Outdoor plants remained the best-performing category, contributing 37.74% of the total quantity sold in 2024.
+Landscape products showed an increase in sales, while Indoor plants declined in quantity sold in 2024.
+This shift in product demand suggests changing customer preferences or external market factors influencing purchasing decisions.
+
+-How did different countries perform in sales?
+
+Canada, Colombia, and Croatia were among the bottom 10 underperforming countries, showing significant drops in sales.
+Several countries that experienced lower sales in 2023 are not included in the 
+current year's bottom 10 underperforming countries, indicating positive growth in previously struggling markets. To address the challenges faced by currently underperforming countries in 2024, it is essential to review past strategies and implement targeted strategies and proactive measures. This will help ensure that these countries can make significant progress.
+The variations in country-level sales highlight potential issues such as pricing, competition, or market demand differences.
+
+- How did profitability vary across accounts and products?
+
+Not all high-sales accounts were highly profitable, suggesting inefficiencies in pricing or cost structures.
+The Account Profitability Segmentation scatter chart revealed that some accounts with strong sales had lower gross profit margins, indicating the need for better pricing strategies.
+Products that contributed heavily to total sales volume did not always align with high profit margins.
+
+- What are the key takeaways for sales quantity trends?
+
+Total sales quantity in 2024 decreased compared to 2023, reflecting slower market activity or demand shifts.
+Outdoor plants continued to lead sales, but Indoor plants saw a noticeable decline.
+Some months showed higher sales activity, emphasizing the need for better demand forecasting and stock management.
+
+- How can GreenLeaf optimize sales and profitability?
+
+Target underperforming regions with strategic marketing efforts to improve sales.
+Adjust pricing models to enhance profitability while maintaining sales volumes.
+Improve inventory planning based on observed sales trends to prevent overstocking or stockouts.
+Continue monitoring profitability per account to ensure that high-sales accounts are also contributing to revenue growth.
+
+
+## Dashboard
+- Dashboard Interaction <a href="https://github.com/GeniDT/GreenLeaf-Performance-Dashboard/blob/main/Performaance%20Dashboard.pbix">View Dashboard</a>
+
 ## Recommendations for Stakeholders
 •	Optimize Product Strategy: Focus on Outdoor and Landscape products to align with shifting consumer preferences.
 •	Market-Specific Adjustments: Address underperforming regions with targeted marketing campaigns and pricing strategies.
 •	Inventory Management: Use insights to align stock levels with demand trends, minimizing overstock or shortages.
 •	Enhance Data Monitoring: Regularly update and review performance metrics to stay agile in decision-making.
+
 ## How to Use the Dashboard
-1.	Explore Key Metrics: Navigate through sales, quantity, and profitability insights.
+1.	Explore Key Metrics: Navigate through sales, quantity, and gross profit insights.
 2.	Apply Filters: Use built-in filters to analyze trends by year, product type, and country.
 3.	Make Data-Driven Decisions: Leverage insights to optimize sales strategies and maximize profitability.
+   
 ## Technologies Used
 •	Power BI for visualization and interactive reporting.
-•	Plant DTS Data for quantitative analysis.
+•	Excel
