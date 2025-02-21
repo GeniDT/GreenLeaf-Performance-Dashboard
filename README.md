@@ -1,4 +1,4 @@
-# GreenLeaf-Performance-Dashboard
+# GreenLeaf-Performance-Dashboard - – Using Power BI
 The GreenLeaf Performance Dashboard is a data-driven analytics tool that offers insights into sales trends, product performance, and profitability. Built using Power BI, this dashboard helps stakeholders track key metrics, identify growth opportunities, and make informed management decisions.
 
 
