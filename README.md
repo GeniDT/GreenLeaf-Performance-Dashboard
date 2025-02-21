@@ -6,30 +6,17 @@ The GreenLeaf Performance Dashboard is a data-driven analytics tool that offers 
 - <a href="https://github.com/GeniDT/GreenLeaf-Performance-Dashboard/blob/main/Plant_DTS.xlsx">Dataset</a>
 
 
-## Business Questions & KPIs
-- How has GreenLeaf’s Year-to-Date (YTD) sales performance evolved compared to the Prior Year-to-Date (PYTD)?
- KPI: YTD vs PYTD Sales Growth (%)
-
+## Business Questions
+- How has GreenLeaf’s Year-to-Date (YTD) sales performance evolved compared to the Prior Year-to-Date (PYTD)
 - Which product categories are the best and worst performers?
-   KPIs:
-
-YTD Sales Quantity by Product Type
 Contribution % of Each Product Category
 - What are the key market trends and variations across different countries?
- KPIs:
-YTD Sales Quantity by Country
-YTD vs PYTD Country Performance (%)
 Top & Bottom 10 Countries by Sales Change
 - How do profitability and sales quantity correlate across different segments?
-   KPIs:
-
-YTD Gross Profit Percentage (GP%)
-Account Profitability Segmentation
 - How can GreenLeaf optimize sales and inventory management using data-driven insights?
- KPIs:
-YTD Demand Trends Over Time
-Stock Turnover Rate
-Sales Forecasting Accuracy
+  
+- Dashboard Interaction <a href="https://github.com/GeniDT/GreenLeaf-Performance-Dashboard/blob/main/Performaance%20Dashboard.pbix">View Dashboard</a>
+
 ## Key Insights & Findings
 •	Year-over-Year Performance: Sales and quantity trends revealed key periods of growth and decline, aiding in demand forecasting.
 •	Product Type Contribution:
