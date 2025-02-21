@@ -15,7 +15,7 @@ The GreenLeaf Performance Dashboard is a data-driven analytics tool that offers 
 - How can GreenLeaf optimize sales and inventory management using data-driven insights?
 
 ## Dashboard Preview
- <a href="https://github.com/GeniDT/GreenLeaf-Performance-Dashboard/blob/main/Image.png">View Dashboard</a>Preview of Dashboard</a> 
+- <a href="https://github.com/GeniDT/GreenLeaf-Performance-Dashboard/blob/main/Image.png">View Dashboard</a>Preview of Dashboard</a> 
 
 
 ## Key Insights & Findings
@@ -59,7 +59,7 @@ Continue monitoring profitability per account to ensure that high-sales accounts
 
 
 ## Dashboard
-- Dashboard Interaction <a href="https://github.com/GeniDT/GreenLeaf-Performance-Dashboard/blob/main/Performaance%20Dashboard.pbix">View Dashboard</a>
+- <a href="https://github.com/GeniDT/GreenLeaf-Performance-Dashboard/blob/main/Performaance%20Dashboard.pbix">View Dashboard</a>
 
 ## Recommendations for Stakeholders
 •	Optimize Product Strategy: Focus on Outdoor and Landscape products to align with shifting consumer preferences.
