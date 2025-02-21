@@ -15,7 +15,17 @@ The GreenLeaf Performance Dashboard is a data-driven analytics tool that offers 
 - How can GreenLeaf optimize sales and inventory management using data-driven insights?
 
 ## Dashboard Preview
-- <a href="https://github.com/GeniDT/GreenLeaf-Performance-Dashboard/blob/main/Image.png">View Dashboard</a>Preview of Dashboard</a> 
+![Image](https://github.com/user-attachments/assets/247c16b1-f676-4a23-988b-bc797d2493b8)
+
+
+## Process
+- Imported raw data and performed data transformation (removing duplicates, handling missing values, and correcting data types) using Power Query.
+- Created new calculated columns where necessary (e.g., YTD, PYTD, and growth metrics).
+- Established relationships between tables 
+- Defined measures using DAX to calculate KPIs like YTD Sales, PYTD Sales, and GP %.
+- Designed an interactive dashboard layout with charts, slicers, and key metrics.
+- Implemented slicers for Sales, Quantity, and Gross Profit to allow flexible analysis.
+- Adjusted colors, spacing, and layout for clarity.
 
 
 ## Key Insights & Findings
